@@ -1,0 +1,9 @@
+C:\Users\spn\Desktop\projects\services\ProcedureExcuter\obj\Debug\ProcedureExcuter.csprojAssemblyReference.cache
+C:\Users\spn\Desktop\projects\services\ProcedureExcuter\obj\Debug\ProcedureExcuter.csproj.CoreCompileInputs.cache
+C:\Users\spn\Desktop\projects\services\ProcedureExcuter\bin\Debug\ProcedureExcuter.exe.config
+C:\Users\spn\Desktop\projects\services\ProcedureExcuter\bin\Debug\ProcedureExcuter.exe
+C:\Users\spn\Desktop\projects\services\ProcedureExcuter\bin\Debug\ProcedureExcuter.pdb
+C:\Users\spn\Desktop\projects\services\ProcedureExcuter\obj\Debug\ProcedureExcuter.exe
+C:\Users\spn\Desktop\projects\services\ProcedureExcuter\obj\Debug\ProcedureExcuter.pdb
+C:\Users\spn\Desktop\projects\services\ProcedureExcuter\obj\Debug\ProcedureExcuter.ProjectInstaller.resources
+C:\Users\spn\Desktop\projects\services\ProcedureExcuter\obj\Debug\ProcedureExcuter.csproj.GenerateResource.cache
